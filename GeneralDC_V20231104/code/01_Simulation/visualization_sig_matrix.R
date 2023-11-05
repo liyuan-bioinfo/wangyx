@@ -1,4 +1,4 @@
-#' @desc test novel method of de-convolution
+#' @desc visualization of Sig. Matrix
 #' @time 20231104
 #' @author Li-Y
 
