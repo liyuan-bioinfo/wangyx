@@ -1,8 +1,7 @@
-# 基于MouseSpleen的数据, 模拟不同的情况
 # 使用command exe的形式执行不同的benchmark方法
 # Input的数据为: 
-#   1, 基于single-cell proteomics train好的model或者single-cell proteomics H5AD格式文件; 
-#   2, 基于Bulk protemics(需要用single-cell 进行对齐)得到的H5AD格式文件. 
+#   1, 基于single-cell Sig.Matrix H5AD格式文件; 
+#   2, 基于Bulk transcriptome(需要用single-cell 进行对齐)得到的H5AD格式文件. 
 
 # Output的数据类型为: 
 #   1, cell-type abundance, ID为spot, 产生 Dataset * Method个数的结果
